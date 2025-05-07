@@ -13,4 +13,4 @@
 🌱 Currently exploring advanced patterns in **NestJS** and expanding my skills in **GraphQL**-driven application development.
 
 📫 Let’s connect and collaborate on meaningful tech:
-[🌐 GitHub](https://github.com/Bethel16) | [💼 LinkedIn](https://www.linkedin.com/in/betel-tesfu-25a70a288/) | [📧 Email](beteltesfu15@gmail.com)
+[🌐 GitHub](https://github.com/Bethel16) | [💼 LinkedIn](https://www.linkedin.com/in/betel-tesfu-25a70a288/) | [📧 Email](mailto:beteltesfu15@gmail.com)
